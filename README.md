@@ -20,10 +20,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Siga as instruções abaixo:
 ```bash
   # Clone este repositório
-  $ git clone https://github.com/gustavoalvim41/estab-info.git
+  $ git clone https://github.com/gustavoalvim41/auto-collect.git
 
   # Acesse a pasta do projeto no terminal/cmd
-  $ cd estab-info
+  $ cd auto-collect
 
   # Instale as dependências
   $ pip install -r requirements.txt
